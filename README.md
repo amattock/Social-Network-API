@@ -1,6 +1,8 @@
 # Social-Network-API
 Backend for a social network web application.
 
+I was not able to get the "thought" and "reaction" api routes to work. 
+
 # Description
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
